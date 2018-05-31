@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+BlissViewTool::Renderer.copyright 'Tyson Bliss', 'All rights reserved'
+```
 
 ## Development
 
